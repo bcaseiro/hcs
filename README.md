@@ -84,25 +84,16 @@ Note: Hidden shares such as C$, Admin$, etc are not going to be scanned.
 2019-07-04 20:40  ==> Unable to detect shares on the host:  win7-lab
 
 
-----------------------------------------------------------------------------------------------------------------------------------------
--                                            FINDINGS SUMMARY:                                                                           -
-----------------------------------------------------------------------------------------------------------------------------------------
-dc01 ==> \\dc01\Malwares\file01.txt ==> Finding:  username=bruno
-
-dc01 ==> \\dc01\Malwares\file01.txt ==> Finding:  password=Retina2014
+FINDINGS SUMMARY:                                                                           -
+dc01 ==> \\dc01\Malwares\file01.txt ==> Finding:  username=bruno\n
+dc01 ==> \\dc01\Malwares\file01.txt ==> Finding:  password=Retina2014\n
 dc01 ==> \\dc01\Malwares\file03.txt ==> Finding:  SecRet pamonha
-
 dc01 ==> \\dc01\Malwares\file03.txt ==> Finding:  PWD: fusca
-
 dc01 ==> \\dc01\Malwares\Auto-Upload\file05.txt ==> Finding:  username: corinthians
-
 dc01 ==> \\dc01\Malwares\Auto-Upload\file05.txt ==> Finding:  password - ronaldo
 dc01 ==> \\dc01\NETLOGON\web.config ==> Finding:  username:bruno;password:123
 dc01 ==> \\dc01\NETLOGON\web.config ==> Finding:  username:bruno;password:123
 dc01 ==> \\dc01\SYSVOL\cylance-lab.com.br\scripts\web.config ==> Finding:  username:bruno;password:123
 dc01 ==> \\dc01\SYSVOL\cylance-lab.com.br\scripts\web.config ==> Finding:  username:bruno;password:123
 
-----------------------------------------------------------------------------------------------------------------------------------------
-
-
-2019-07-04 20:40  ==> Scan has been completed. TIme taken to run this scan:  0:00:00
+2019-07-04 20:40  ==> Scan has been completed. Time taken to run this scan:  0:00:00
