@@ -14,6 +14,10 @@ hcs.exe << Enter >>
 Note: Make sure your systems is connected to a Windows domain and also that your current user has access to all shares that you want to audit. Once the scan is completed, a log file named "hcs.log" will be generated containing all findings of your scan.
 
 
+# Video Demonstrating this tool:
+https://www.youtube.com/watch?v=RdOoqVkQqX0
+
+
 # Questions?
 Bruno Caseiro - bacaseiro@gmail.com
 
